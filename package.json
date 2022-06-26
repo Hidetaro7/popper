@@ -5,7 +5,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "start": ".output/server/index.mjs"
+    "start": "build .output/server/index.mjs"
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.4"
